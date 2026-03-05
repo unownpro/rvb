@@ -1,7 +1,3 @@
-reddit-morphe: 2026.04.0  
-youtube-morphe: 20.44.38  
-youtube-music-morphe (arm64-v8a): 8.44.54  
-youtube-music-morphe (arm-v7a): 8.44.54  
 youtube-music-rvx-morphed (arm64-v8a): 8.30.54  
 youtube-music-rvx-morphed (arm-v7a): 8.30.54  
 youtube-rvx-morphed: 20.05.46  
@@ -13,8 +9,5 @@ youtube-rvx-morphed: 20.05.46
 [GitHub](https://github.com/nullcpy/rvb) | [Group Chat](https://t.me/rvb27) | [Channel](https://t.me/rvb28)
   
 CLI: MorpheApp/morphe-cli-1.4.0-all.jar  
-Patches: MorpheApp/patches-1.17.0-dev.6.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.17.0-dev.6)
-
-Patches: wchill/patches-5.16.4-dev.1.mpp  
-[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.16.4-dev.1)  
+Patches: wchill/patches-5.16.4.mpp  
+[Changelog](https://github.com/wchill/rvx-morphed/releases/tag/v5.16.4)  
