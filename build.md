@@ -9,5 +9,5 @@ proton-vpn-hoo-dles: 5.16.83.0
 [GitHub](https://github.com/nullcpy/rvb) | [Group Chat](https://t.me/rvb27) | [Channel](https://t.me/rvb28)
   
 CLI: MorpheApp/morphe-cli-1.5.0-all.jar  
-Patches: hoo-dles/patches-1.13.0.mpp  
-[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.0)  
+Patches: hoo-dles/patches-1.13.1-dev.1.mpp  
+[Changelog](https://github.com/hoo-dles/morphe-patches/releases/tag/v1.13.1-dev.1)  
