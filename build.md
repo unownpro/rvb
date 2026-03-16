@@ -1,18 +1,13 @@
-duolingo-revanced: 6.54.5  
-google-recorder-revanced: 4.2.20260118.867906508  
-instagram-revanced: 420.0.0.55.74  
-lightroom-revanced: 9.3.0  
-messenger-revanced (arm64-v8a): 551.0.0.48.62  
-messenger-revanced (arm-v7a): 551.0.0.48.62  
-proton-mail-revanced: 4.15.0  
-proton-vpn-revanced: 5.16.88.0  
-soundcloud-revanced: 2025.05.27-release  
-tiktok-revanced: 36.5.4  
-twitch-revanced: 25.3.0  
-twitter-revanced (arm64-v8a): 10.86.0-release.0  
-twitter-revanced (arm-v7a): 10.86.0-release.0  
-youtube-revanced-mocha: 20.40.45  
-youtube-revanced-nord: 20.40.45  
+reddit-morphe: 2026.04.0  
+youtube-anddea: 20.05.46  
+youtube-morphe: 20.44.38  
+youtube-music-anddea (arm64-v8a): 8.30.54  
+youtube-music-anddea (arm-v7a): 8.30.54  
+youtube-music-morphe (arm64-v8a): 8.44.54  
+youtube-music-morphe (arm-v7a): 8.44.54  
+youtube-music-revanced (arm64-v8a): 8.40.54  
+youtube-music-revanced (arm-v7a): 8.40.54  
+youtube-revanced: 20.40.45  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -20,9 +15,12 @@ youtube-revanced-nord: 20.40.45
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group Chat](https://t.me/rvb27) | [Channel](https://t.me/rvb28)
   
-CLI: ReVanced/revanced-cli-6.0.0-all.jar  
-Patches: ReVanced/patches-6.0.1.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)
+CLI: MorpheApp/morphe-cli-1.6.0-dev.4-all.jar  
+Patches: anddea/patches-4.0.0-dev.8.mpp  
+[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0-dev.8)
 
-Patches: ReVanced/patches-5.50.0-dev.7.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.0-dev.7)  
+Patches: MorpheApp/patches-1.19.0-dev.7.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.19.0-dev.7)
+
+Patches: ReVanced/patches-6.0.2-dev.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.2-dev.1)  
