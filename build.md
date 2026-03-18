@@ -7,6 +7,6 @@ twitter-piko (arm-v7a): 11.73.0-release.0
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group Chat](https://t.me/rvb27) | [Channel](https://t.me/rvb28)
   
-CLI: MorpheApp/morphe-cli-1.6.0-dev.5-all.jar  
-Patches: crimera/patches-3.0.0-dev.15.mpp  
-[Changelog](https://github.com/crimera/piko/releases/tag/v3.0.0-dev.15)  
+CLI: MorpheApp/morphe-cli-1.5.0-all.jar  
+Patches: crimera/patches-3.0.0.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.0.0)  
