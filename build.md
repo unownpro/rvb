@@ -1,6 +1,5 @@
-youtube-music-revanced (arm64-v8a): 8.40.54  
-youtube-music-revanced (arm-v7a): 8.40.54  
-youtube-revanced: 20.40.45  
+google-photos-revanced (arm64-v8a): 7.68.0.884121604  
+google-photos-revanced (arm-v7a): 7.68.0.884121604  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
