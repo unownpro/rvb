@@ -1,3 +1,5 @@
+google-photos-revanced (arm64-v8a): 7.66.0.881052163  
+google-photos-revanced (arm-v7a): 7.66.0.881052163  
 reddit-morphe: 2026.04.0  
 twitter-piko (arm64-v8a): 11.74.0-release.0  
 twitter-piko (arm-v7a): 11.74.0-release.0  
