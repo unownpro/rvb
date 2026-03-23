@@ -7,6 +7,6 @@ twitter-morphe (arm-v7a): 11.75.1-release.0
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group Chat](https://t.me/rvb27) | [Channel](https://t.me/rvb28) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-cli-1.6.2-dev.1-all.jar  
+CLI: MorpheApp/morphe-cli-1.6.3-dev.1-all.jar  
 Patches: crimera/patches-3.1.0-dev.1.mpp  
 [Changelog](https://github.com/crimera/piko/releases/tag/v3.1.0-dev.1)  
