@@ -1,6 +1,3 @@
-youtube-anddea: 20.05.46  
-youtube-music-anddea (arm64-v8a): 8.30.54  
-youtube-music-anddea (arm-v7a): 8.30.54  
 youtube-morphe: 20.45.36  
 youtube-music-morphe (arm64-v8a): 8.44.54  
 youtube-music-morphe (arm-v7a): 8.44.54  
@@ -12,9 +9,6 @@ reddit-morphe: 2026.04.0
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group Chat](https://t.me/rvb27) | [Channel](https://t.me/rvb28) | [Website](https://nullcpy.github.io)
   
-CLI: MorpheApp/morphe-cli-1.6.3-dev.1-all.jar  
-Patches: anddea/patches-4.0.0-dev.10.mpp  
-[Changelog](https://github.com/anddea/revanced-patches/releases/tag/v4.0.0-dev.10)
-
-Patches: MorpheApp/patches-1.22.0-dev.3.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0-dev.3)  
+CLI: MorpheApp/morphe-cli-1.6.3-dev.2-all.jar  
+Patches: MorpheApp/patches-1.22.0-dev.5.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.22.0-dev.5)  
