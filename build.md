@@ -1,6 +1,5 @@
-google-photos-morphe (arm64-v8a): 7.68.0.884121604  
-google-photos-morphe (arm-v7a): 7.68.0.884121604  
-messenger-morphe (arm64-v8a): 552.0.0.44.65  
+proton-mail-morphe: 4.15.0  
+soundcloud-morphe: 2025.05.27-release  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
