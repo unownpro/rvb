@@ -1,5 +1,5 @@
-gboard-morphe (arm64-v8a): 17.1.5.887912998-release  
-gboard-morphe (arm-v7a): 17.1.5.887912998-release  
+reddit-morphe-adobo (arm64-v8a): 2026.11.0  
+reddit-morphe-adobo (arm-v7a): 2026.11.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
