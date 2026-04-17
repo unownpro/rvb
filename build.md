@@ -1,4 +1,4 @@
-adobe-photoshop-mix-morphe (arm64-v8a): 2.6.346  
+photoshop-mix-morphe (arm64-v8a): 2.6.346  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
