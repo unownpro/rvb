@@ -1,4 +1,7 @@
-photoshop-mix-morphe (arm64-v8a): 2.6.346  
+pinterest-morphe (arm64-v8a): 14.11.0  
+pinterest-morphe (arm-v7a): 14.11.0  
+truecaller-morphe (arm64-v8a): 26.12.5  
+truecaller-morphe (arm-v7a): 26.12.5  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -6,5 +9,5 @@ photoshop-mix-morphe (arm64-v8a): 2.6.346
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Channel](https://t.me/rvb28) | [Website](https://nullcpy.github.io)
   
-Patches: RookieEnough/patches-1.0.3.mpp  
-[Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)  
+Patches: binarymend/patches-1.2.0.mpp  
+[Changelog](https://github.com/binarymend/morphe-patches/releases/tag/v1.2.0)  
