@@ -1,4 +1,4 @@
-messenger-revanced (arm64-v8a): 552.0.0.44.65  
+twitch-revanced (all): 16.9.1  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
