@@ -1,9 +1,5 @@
-truecaller-morphe (arm64-v8a): 26.10.6  
-truecaller-morphe (arm-v7a): 26.10.6  
-document-scanner-morphe (arm64-v8a): 6.8.18  
-document-scanner-morphe (arm-v7a): 6.8.18  
-macrodroid-morphe (arm64-v8a): 5.63.6  
-macrodroid-morphe (arm-v7a): 5.63.6  
+google-photos-morphe (arm64-v8a): 7.72.0.900772179  
+google-photos-morphe (arm-v7a): 7.72.0.900772179  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -11,5 +7,5 @@ macrodroid-morphe (arm-v7a): 5.63.6
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Channel](https://t.me/rvb28) | [Website](https://nullcpy.github.io)
   
-Patches: Paresh-Maheshwari/patches-1.8.0.mpp  
-[Changelog](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.8.0)  
+Patches: RookieEnough/patches-1.0.3.mpp  
+[Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)  
