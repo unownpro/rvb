@@ -1,7 +1,9 @@
-instagram-revanced (arm64-v8a): 423.0.0.47.66  
-instagram-revanced (arm-v7a): 423.0.0.47.66  
-messenger-revanced (arm64-v8a): 552.0.0.44.65  
-messenger-revanced (arm-v7a): 552.0.0.44.65  
+youtube-morphe (arm64-v8a): 20.47.62  
+youtube-morphe (arm-v7a): 20.47.62  
+youtube-music-morphe (arm64-v8a): 8.47.56  
+youtube-music-morphe (arm-v7a): 8.47.56  
+reddit-morphe (arm64-v8a): 2026.10.0  
+reddit-morphe (arm-v7a): 2026.10.0  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -9,5 +11,8 @@ messenger-revanced (arm-v7a): 552.0.0.44.65
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Channel](https://t.me/rvb28) | [Website](https://nullcpy.github.io)
   
-Patches: Raudrobot/patches-6.1.0.rvp  
-[Changelog](https://github.com/Raudrobot/revanced-patches/releases/tag/6.1.0-patches)  
+Patches: MorpheApp/patches-1.24.0-dev.12.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0-dev.12)
+
+Patches: MorpheApp/patches-1.24.0-dev.13.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.24.0-dev.13)  
