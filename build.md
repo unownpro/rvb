@@ -1,5 +1,6 @@
-google-photos-morphe (arm64-v8a): 7.73.0.902316009  
-google-photos-morphe (arm-v7a): 7.73.0.902316009  
+twitter-morphe (arm64-v8a): 11.81.0-release.0  
+twitter-morphe (arm-v7a): 11.81.0-release.0  
+instagram-morphe-piko (arm64-v8a): 426.0.0.37.68  
 
 **Notes:**  
 • Install [MicroG-RE](https://github.com/MorpheApp/MicroG-RE/releases/latest) or [MicroG](https://github.com/ReVanced/GmsCore/releases/latest), required for Google APKs.  
@@ -7,5 +8,5 @@ google-photos-morphe (arm-v7a): 7.73.0.902316009
 
 [GitHub](https://github.com/nullcpy/rvb) | [Group](https://t.me/rvb27) | [Donate](https://fahim-ahmed05.github.io/donate) | [Website](https://nullcpy.github.io)
   
-Patches: RookieEnough/patches-1.0.3.mpp  
-[Changelog](https://github.com/RookieEnough/De-ReVanced/releases/tag/v1.0.3)  
+Patches: crimera/patches-3.3.0-dev.2.mpp  
+[Changelog](https://github.com/crimera/piko/releases/tag/v3.3.0-dev.2)  
