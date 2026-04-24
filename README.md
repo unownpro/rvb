@@ -116,10 +116,10 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 <details>
 <summary id="calcnote-morphe">&emsp;<img src="https://img.shields.io/badge/version-v2.25.107-gray?labelColor=607D8B&logo=android&logoColor=white&style=flat"></summary>
 
-[arm64-v8a.apk](https://github.com/nullcpy/rvb/releases/download/148/calcnote-morphe-v2.25.107-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/nullcpy/rvb/releases/download/148/calcnote-morphe-v2.25.107-arm-v7a.apk)
+[arm64-v8a.apk](https://github.com/unownpro/rvb/releases/download/1/calcnote-morphe-v2.25.107-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/unownpro/rvb/releases/download/1/calcnote-morphe-v2.25.107-arm-v7a.apk)
 <blockquote>
 
-[Release 2026-04-24](https://github.com/nullcpy/rvb/releases/tag/148)<br>
+[Release 2026-04-24](https://github.com/unownpro/rvb/releases/tag/1)<br>
 Patches: [binarymend/patches-1.3.0.mpp](https://github.com/binarymend/morphe-patches/releases/tag/v1.3.0)
 - Unlock CalcNote Pro
 </blockquote>
@@ -206,10 +206,10 @@ Patches: [Raudrobot/patches-6.1.0.rvp](https://github.com/Raudrobot/revanced-pat
 <details>
 <summary id="eyecon-morphe">&emsp;<img src="https://img.shields.io/badge/version-v4.2026.04.05.1300-gray?labelColor=00BCD4&logo=android&logoColor=white&style=flat"></summary>
   
-[arm64-v8a.apk](https://github.com/nullcpy/rvb/releases/download/148/eyecon-morphe-v4.2026.04.05.1300-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/nullcpy/rvb/releases/download/148/eyecon-morphe-v4.2026.04.05.1300-arm-v7a.apk)
+[arm64-v8a.apk](https://github.com/unownpro/rvb/releases/download/1/eyecon-morphe-v4.2026.04.05.1300-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/unownpro/rvb/releases/download/1/eyecon-morphe-v4.2026.04.05.1300-arm-v7a.apk)
 <blockquote>
 
-[Release 2026-04-24](https://github.com/nullcpy/rvb/releases/tag/148)<br>
+[Release 2026-04-24](https://github.com/unownpro/rvb/releases/tag/1)<br>
 Patches: [Paresh-Maheshwari/patches-1.11.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.11.0)
 - Eyecon Premium
 </blockquote>
@@ -541,10 +541,10 @@ Patches: [RookieEnough/patches-1.0.3.mpp](https://github.com/RookieEnough/De-ReV
 <details>
 <summary id="moonplus-reader-morphe">&emsp;<img src="https://img.shields.io/badge/version-v10.5-gray?labelColor=4285F4&logo=android&logoColor=white&style=flat"></summary>
   
-[arm64-v8a.apk](https://github.com/nullcpy/rvb/releases/download/148/moonplus-reader-morphe-v10.5-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/nullcpy/rvb/releases/download/148/moonplus-reader-morphe-v10.5-arm-v7a.apk)
+[arm64-v8a.apk](https://github.com/unownpro/rvb/releases/download/1/moonplus-reader-morphe-v10.5-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/unownpro/rvb/releases/download/1/moonplus-reader-morphe-v10.5-arm-v7a.apk)
 <blockquote>
 
-[Release 2026-04-24](https://github.com/nullcpy/rvb/releases/tag/148)<br>
+[Release 2026-04-24](https://github.com/unownpro/rvb/releases/tag/1)<br>
 Patches: [binarymend/patches-1.3.0.mpp](https://github.com/binarymend/morphe-patches/releases/tag/v1.3.0)
 - Make UI look like Pro
 - Unlock Moon+ Reader Pro
@@ -884,10 +884,10 @@ Patches: [Raudrobot/patches-6.1.0.rvp](https://github.com/Raudrobot/revanced-pat
 <details>
 <summary id="symfonium-morphe">&emsp;<img src="https://img.shields.io/badge/version-v14.0.0-gray?labelColor=FF5722&logo=android&logoColor=white&style=flat"></summary>
 
-[arm64-v8a.apk](https://github.com/nullcpy/rvb/releases/download/148/symfonium-morphe-v14.0.0-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/nullcpy/rvb/releases/download/148/symfonium-morphe-v14.0.0-arm-v7a.apk)
+[arm64-v8a.apk](https://github.com/unownpro/rvb/releases/download/1/symfonium-morphe-v14.0.0-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/unownpro/rvb/releases/download/1/symfonium-morphe-v14.0.0-arm-v7a.apk)
 <blockquote>
 
-[Release 2026-04-24](https://github.com/nullcpy/rvb/releases/tag/148)<br>
+[Release 2026-04-24](https://github.com/unownpro/rvb/releases/tag/1)<br>
 Patches: [binarymend/patches-1.3.0.mpp](https://github.com/binarymend/morphe-patches/releases/tag/v1.3.0)
 - Unlock Symfonium
 </blockquote>
@@ -975,10 +975,10 @@ Patches: [Raudrobot/patches-6.1.0.rvp](https://github.com/Raudrobot/revanced-pat
 <details>
 <summary id="ticktick-morphe">&emsp;<img src="https://img.shields.io/badge/version-v8.0.6.1-gray?labelColor=5C6BC0&logo=android&logoColor=white&style=flat"></summary>
   
-[arm64-v8a.apk](https://github.com/nullcpy/rvb/releases/download/148/ticktick-morphe-v8.0.6.1-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/nullcpy/rvb/releases/download/148/ticktick-morphe-v8.0.6.1-arm-v7a.apk)
+[arm64-v8a.apk](https://github.com/unownpro/rvb/releases/download/1/ticktick-morphe-v8.0.6.1-arm64-v8a.apk) • [arm-v7a.apk](https://github.com/unownpro/rvb/releases/download/1/ticktick-morphe-v8.0.6.1-arm-v7a.apk)
 <blockquote>
 
-[Release 2026-04-24](https://github.com/nullcpy/rvb/releases/tag/148)<br>
+[Release 2026-04-24](https://github.com/unownpro/rvb/releases/tag/1)<br>
 Patches: [Paresh-Maheshwari/patches-1.11.0.mpp](https://github.com/Paresh-Maheshwari/paresh-patches/releases/tag/v1.11.0)
 - TickTick Premium
 </blockquote>
